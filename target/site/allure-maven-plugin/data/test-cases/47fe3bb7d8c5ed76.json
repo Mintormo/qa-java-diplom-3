@@ -1,0 +1,64 @@
+{
+  "uid" : "47fe3bb7d8c5ed76",
+  "name" : "Неудачная регистрация пользователя при вводе слишком короткого пароля",
+  "fullName" : "ru.yandex.praktikum.pages.RegistrationTest.registrationWithTooShortPasswordFailure",
+  "historyId" : "4caf5041646ba91446ed776de16c059b",
+  "time" : {
+    "start" : 1668831335759,
+    "stop" : 1668831351393,
+    "duration" : 15634
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "ru.yandex.praktikum.pages"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.yandex.praktikum.pages.RegistrationTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "registrationWithTooShortPasswordFailure"
+  }, {
+    "name" : "suite",
+    "value" : "ru.yandex.praktikum.pages.RegistrationTest"
+  }, {
+    "name" : "host",
+    "value" : "ipershikov"
+  }, {
+    "name" : "thread",
+    "value" : "15168@ipershikov.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4a4a37c7f5964f1d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668826977701,
+        "stop" : 1668826994286,
+        "duration" : 16585
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "47fe3bb7d8c5ed76.json",
+  "parameterValues" : [ ]
+}

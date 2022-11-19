@@ -1,0 +1,178 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "ru.yandex.praktikum.pages",
+    "children" : [ {
+      "name" : "goToIngredientsPage",
+      "uid" : "e557be68f1fab3c7",
+      "parentUid" : "db1ece746ea56ec1a02ed5f3594c1f24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831199447,
+        "stop" : 1668831224088,
+        "duration" : 24641
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "goToBunsPage",
+      "uid" : "f7b4aca20bbebd33",
+      "parentUid" : "db1ece746ea56ec1a02ed5f3594c1f24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831224256,
+        "stop" : 1668831240248,
+        "duration" : 15992
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "goToSaucePage",
+      "uid" : "aa86d0196549a164",
+      "parentUid" : "db1ece746ea56ec1a02ed5f3594c1f24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831240263,
+        "stop" : 1668831255279,
+        "duration" : 15016
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "loginRestoreForm",
+      "uid" : "a15bab7242ccc31",
+      "parentUid" : "db1ece746ea56ec1a02ed5f3594c1f24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831255294,
+        "stop" : 1668831272463,
+        "duration" : 17169
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "loginRegistrationForm",
+      "uid" : "6479a88950416788",
+      "parentUid" : "db1ece746ea56ec1a02ed5f3594c1f24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831272478,
+        "stop" : 1668831289459,
+        "duration" : 16981
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "loginMainPage",
+      "uid" : "162979d88ad9de0d",
+      "parentUid" : "db1ece746ea56ec1a02ed5f3594c1f24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831289475,
+        "stop" : 1668831304180,
+        "duration" : 14705
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "loginUserProfile",
+      "uid" : "742fb400de9d7dc0",
+      "parentUid" : "db1ece746ea56ec1a02ed5f3594c1f24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831304226,
+        "stop" : 1668831319287,
+        "duration" : 15061
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "registrationNewUserSuccess",
+      "uid" : "e30cbd28bc5ab3bd",
+      "parentUid" : "db1ece746ea56ec1a02ed5f3594c1f24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831319303,
+        "stop" : 1668831335744,
+        "duration" : 16441
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "registrationWithTooShortPasswordFailure",
+      "uid" : "47fe3bb7d8c5ed76",
+      "parentUid" : "db1ece746ea56ec1a02ed5f3594c1f24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831335759,
+        "stop" : 1668831351393,
+        "duration" : 15634
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "goToConstructor",
+      "uid" : "8772b9b4a1abbe7e",
+      "parentUid" : "db1ece746ea56ec1a02ed5f3594c1f24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831351425,
+        "stop" : 1668831369001,
+        "duration" : 17576
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "logout",
+      "uid" : "98789638471de262",
+      "parentUid" : "db1ece746ea56ec1a02ed5f3594c1f24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831369018,
+        "stop" : 1668831384659,
+        "duration" : 15641
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "enterToUserProfile",
+      "uid" : "9cfadb277da2292f",
+      "parentUid" : "db1ece746ea56ec1a02ed5f3594c1f24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831384674,
+        "stop" : 1668831401967,
+        "duration" : 17293
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "clickToLogo",
+      "uid" : "61becef0a87dcf85",
+      "parentUid" : "db1ece746ea56ec1a02ed5f3594c1f24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831401982,
+        "stop" : 1668831418585,
+        "duration" : 16603
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ru.yandex.praktikum.pages"
+  } ]
+}

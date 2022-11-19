@@ -1,0 +1,131 @@
+[ {
+  "uid" : "98789638471de262",
+  "name" : "Выход из аккаунта через личный профиль",
+  "time" : {
+    "start" : 1668831369018,
+    "stop" : 1668831384659,
+    "duration" : 15641
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "162979d88ad9de0d",
+  "name" : "Авторизация через кнопку 'Войти в аакаунт' на главной странице",
+  "time" : {
+    "start" : 1668831289475,
+    "stop" : 1668831304180,
+    "duration" : 14705
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "61becef0a87dcf85",
+  "name" : "При нажатии на логотип попадаем на главную страницу",
+  "time" : {
+    "start" : 1668831401982,
+    "stop" : 1668831418585,
+    "duration" : 16603
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e30cbd28bc5ab3bd",
+  "name" : "Успешная регистрация нового пользователя",
+  "time" : {
+    "start" : 1668831319303,
+    "stop" : 1668831335744,
+    "duration" : 16441
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7b4aca20bbebd33",
+  "name" : "Переход к странице булок в конструкторе",
+  "time" : {
+    "start" : 1668831224256,
+    "stop" : 1668831240248,
+    "duration" : 15992
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e557be68f1fab3c7",
+  "name" : "Переход к странице начинок в конструкторе",
+  "time" : {
+    "start" : 1668831199447,
+    "stop" : 1668831224088,
+    "duration" : 24641
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "47fe3bb7d8c5ed76",
+  "name" : "Неудачная регистрация пользователя при вводе слишком короткого пароля",
+  "time" : {
+    "start" : 1668831335759,
+    "stop" : 1668831351393,
+    "duration" : 15634
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "742fb400de9d7dc0",
+  "name" : "Авторизация через нажатие кнопки профиля",
+  "time" : {
+    "start" : 1668831304226,
+    "stop" : 1668831319287,
+    "duration" : 15061
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6479a88950416788",
+  "name" : "Авторизация через форму регистрации",
+  "time" : {
+    "start" : 1668831272478,
+    "stop" : 1668831289459,
+    "duration" : 16981
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a15bab7242ccc31",
+  "name" : "Авторизация через форму восстановления пароля",
+  "time" : {
+    "start" : 1668831255294,
+    "stop" : 1668831272463,
+    "duration" : 17169
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8772b9b4a1abbe7e",
+  "name" : "Переход к конструктору",
+  "time" : {
+    "start" : 1668831351425,
+    "stop" : 1668831369001,
+    "duration" : 17576
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa86d0196549a164",
+  "name" : "Переход к странице соусов в конструкторе",
+  "time" : {
+    "start" : 1668831240263,
+    "stop" : 1668831255279,
+    "duration" : 15016
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9cfadb277da2292f",
+  "name" : "Переход в профиль пользователя",
+  "time" : {
+    "start" : 1668831384674,
+    "stop" : 1668831401967,
+    "duration" : 17293
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

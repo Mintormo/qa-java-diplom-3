@@ -1,0 +1,190 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "ru.yandex.praktikum.pages.ConstructorTest",
+    "children" : [ {
+      "name" : "Переход к странице начинок в конструкторе",
+      "uid" : "e557be68f1fab3c7",
+      "parentUid" : "f5e23932487f36f74ebe89b9e8f64ff8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831199447,
+        "stop" : 1668831224088,
+        "duration" : 24641
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Переход к странице булок в конструкторе",
+      "uid" : "f7b4aca20bbebd33",
+      "parentUid" : "f5e23932487f36f74ebe89b9e8f64ff8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831224256,
+        "stop" : 1668831240248,
+        "duration" : 15992
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Переход к странице соусов в конструкторе",
+      "uid" : "aa86d0196549a164",
+      "parentUid" : "f5e23932487f36f74ebe89b9e8f64ff8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831240263,
+        "stop" : 1668831255279,
+        "duration" : 15016
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f5e23932487f36f74ebe89b9e8f64ff8"
+  }, {
+    "name" : "ru.yandex.praktikum.pages.LoginTest",
+    "children" : [ {
+      "name" : "Авторизация через форму восстановления пароля",
+      "uid" : "a15bab7242ccc31",
+      "parentUid" : "32d25357508d7b90b254e35c7cfd0bec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831255294,
+        "stop" : 1668831272463,
+        "duration" : 17169
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Авторизация через форму регистрации",
+      "uid" : "6479a88950416788",
+      "parentUid" : "32d25357508d7b90b254e35c7cfd0bec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831272478,
+        "stop" : 1668831289459,
+        "duration" : 16981
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Авторизация через кнопку 'Войти в аакаунт' на главной странице",
+      "uid" : "162979d88ad9de0d",
+      "parentUid" : "32d25357508d7b90b254e35c7cfd0bec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831289475,
+        "stop" : 1668831304180,
+        "duration" : 14705
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Авторизация через нажатие кнопки профиля",
+      "uid" : "742fb400de9d7dc0",
+      "parentUid" : "32d25357508d7b90b254e35c7cfd0bec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831304226,
+        "stop" : 1668831319287,
+        "duration" : 15061
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "32d25357508d7b90b254e35c7cfd0bec"
+  }, {
+    "name" : "ru.yandex.praktikum.pages.RegistrationTest",
+    "children" : [ {
+      "name" : "Успешная регистрация нового пользователя",
+      "uid" : "e30cbd28bc5ab3bd",
+      "parentUid" : "a7ef67bba546ee6d8bd671340f2dded9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831319303,
+        "stop" : 1668831335744,
+        "duration" : 16441
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Неудачная регистрация пользователя при вводе слишком короткого пароля",
+      "uid" : "47fe3bb7d8c5ed76",
+      "parentUid" : "a7ef67bba546ee6d8bd671340f2dded9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831335759,
+        "stop" : 1668831351393,
+        "duration" : 15634
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a7ef67bba546ee6d8bd671340f2dded9"
+  }, {
+    "name" : "ru.yandex.praktikum.pages.UserProfileTest",
+    "children" : [ {
+      "name" : "Переход к конструктору",
+      "uid" : "8772b9b4a1abbe7e",
+      "parentUid" : "a5a42e20a9a4f668c08cf4716d5bff6e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831351425,
+        "stop" : 1668831369001,
+        "duration" : 17576
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Выход из аккаунта через личный профиль",
+      "uid" : "98789638471de262",
+      "parentUid" : "a5a42e20a9a4f668c08cf4716d5bff6e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831369018,
+        "stop" : 1668831384659,
+        "duration" : 15641
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Переход в профиль пользователя",
+      "uid" : "9cfadb277da2292f",
+      "parentUid" : "a5a42e20a9a4f668c08cf4716d5bff6e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831384674,
+        "stop" : 1668831401967,
+        "duration" : 17293
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "При нажатии на логотип попадаем на главную страницу",
+      "uid" : "61becef0a87dcf85",
+      "parentUid" : "a5a42e20a9a4f668c08cf4716d5bff6e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1668831401982,
+        "stop" : 1668831418585,
+        "duration" : 16603
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a5a42e20a9a4f668c08cf4716d5bff6e"
+  } ]
+}
