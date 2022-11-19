@@ -1,0 +1,54 @@
+{
+  "uid" : "bcd4807d1657faf7",
+  "name" : "Авторизация через кнопку 'Войти в аакаунт' на главной странице",
+  "fullName" : "ru.yandex.praktikum.pages.LoginTest.loginMainPage",
+  "historyId" : "9f226ddc2e7250d1da0279644fc8cdc3",
+  "time" : {
+    "start" : 1668826917217,
+    "stop" : 1668826940361,
+    "duration" : 23144
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "ru.yandex.praktikum.pages"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.yandex.praktikum.pages.LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginMainPage"
+  }, {
+    "name" : "suite",
+    "value" : "ru.yandex.praktikum.pages.LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "ipershikov"
+  }, {
+    "name" : "thread",
+    "value" : "11660@ipershikov.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bcd4807d1657faf7.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,54 @@
+{
+  "uid" : "cdd9ce623ff20e4d",
+  "name" : "Авторизация через форму восстановления пароля",
+  "fullName" : "ru.yandex.praktikum.pages.LoginTest.loginRestoreForm",
+  "historyId" : "ffffdec2d261eba41ae4e632b8a5d978",
+  "time" : {
+    "start" : 1668826878759,
+    "stop" : 1668826896940,
+    "duration" : 18181
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "ru.yandex.praktikum.pages"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.yandex.praktikum.pages.LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginRestoreForm"
+  }, {
+    "name" : "suite",
+    "value" : "ru.yandex.praktikum.pages.LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "ipershikov"
+  }, {
+    "name" : "thread",
+    "value" : "11660@ipershikov.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cdd9ce623ff20e4d.json",
+  "parameterValues" : [ ]
+}

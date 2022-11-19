@@ -1,0 +1,48 @@
+{
+  "total" : 4,
+  "items" : [ {
+    "uid" : "32d25357508d7b90b254e35c7cfd0bec",
+    "name" : "ru.yandex.praktikum.pages.LoginTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "a5a42e20a9a4f668c08cf4716d5bff6e",
+    "name" : "ru.yandex.praktikum.pages.UserProfileTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "f5e23932487f36f74ebe89b9e8f64ff8",
+    "name" : "ru.yandex.praktikum.pages.ConstructorTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "a7ef67bba546ee6d8bd671340f2dded9",
+    "name" : "ru.yandex.praktikum.pages.RegistrationTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

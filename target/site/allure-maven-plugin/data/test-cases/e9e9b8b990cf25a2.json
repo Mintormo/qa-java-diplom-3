@@ -1,0 +1,54 @@
+{
+  "uid" : "e9e9b8b990cf25a2",
+  "name" : "Переход к конструктору",
+  "fullName" : "ru.yandex.praktikum.pages.UserProfileTest.goToConstructor",
+  "historyId" : "dd003d3217e689cd2d8c7365072152b4",
+  "time" : {
+    "start" : 1668826994302,
+    "stop" : 1668827013301,
+    "duration" : 18999
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "ru.yandex.praktikum.pages"
+  }, {
+    "name" : "testClass",
+    "value" : "ru.yandex.praktikum.pages.UserProfileTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "goToConstructor"
+  }, {
+    "name" : "suite",
+    "value" : "ru.yandex.praktikum.pages.UserProfileTest"
+  }, {
+    "name" : "host",
+    "value" : "ipershikov"
+  }, {
+    "name" : "thread",
+    "value" : "11660@ipershikov.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e9e9b8b990cf25a2.json",
+  "parameterValues" : [ ]
+}
